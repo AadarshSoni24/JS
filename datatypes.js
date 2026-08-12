@@ -156,3 +156,7 @@ Boolean(0)          // false
 // Boolean → Number
 Number(true)        // 1
 Number(false)       // 0
+
+const heroes = ["spiderman", "batman", "superman"]
+
+let obj = {name:"aadarsh", age:20}
